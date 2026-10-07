@@ -1,2 +1,2 @@
 # auditoria-caminhoes-python
-Sistema em Python para controle de gastos de cominhões, regitro de compras, serviços e conferência de notas fiscais, com geração de rélatórios.
+Sistema em Python para controle de gastos de caminhões, registro de compras, serviços e conferência de notas fiscais, com geração de relatórios.
